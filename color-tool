@@ -1,0 +1,5 @@
+#!/bin/bash
+
+clear
+
+zenity --color-selection --title="SPLASH | COLOR.."
